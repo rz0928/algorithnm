@@ -1,4 +1,6 @@
-package top.ruizhihut.segment_tree_6;
+package top.ruizhihut.segment_tree_6.LeetCode;
+
+import top.ruizhihut.segment_tree_6.SegmentTree;
 
 /**
  * @description:
